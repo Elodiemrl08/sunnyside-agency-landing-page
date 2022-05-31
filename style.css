@@ -1,0 +1,93 @@
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexbox-item-1 {
+  background-color: rgba(255, 0, 0, 0.531);
+  height: 200px;
+}
+
+.flex-small-container-1 {
+  display: flex;
+}
+
+.flexbox-small-item-1 {
+  background-color: rgb(242, 188, 194);
+  height: 150px;
+  width: 50%;
+}
+.flexbox-small-item-2 {
+  background-color: rgba(255, 0, 47, 0.613);
+  height: 150px;
+  width: 50%;
+}
+
+.flex-small-container-2 {
+  display: flex;
+}
+
+.flexbox-small-item-3 {
+  background-color: rgb(255, 192, 243);
+  height: 150px;
+  width: 50%;
+}
+.flexbox-small-item-4 {
+  background-color: rgba(229, 4, 218, 0.441);
+  height: 150px;
+  width: 50%;
+}
+
+.flex-small-container-3 {
+  display: flex;
+}
+
+.flexbox-small-item-5 {
+  background-color: rgb(232, 192, 255);
+  height: 150px;
+  width: 50%;
+}
+.flexbox-small-item-6 {
+  background-color: rgb(200, 192, 255);
+  height: 150px;
+  width: 50%;
+}
+
+.flexbox-item-2 {
+  background-color: rgba(17, 106, 129, 0.565);
+  height: 200px;
+}
+
+.flex-small-container-4 {
+  display: flex;
+}
+
+.flexbox-small-item-7 {
+  background-color: rgba(8, 95, 117, 0.829);
+  height: 200px;
+  width: 50%;
+}
+
+.flexbox-small-item-8 {
+  background-color: rgb(53, 131, 194);
+  height: 200px;
+  width: 50%;
+}
+
+.flexbox-small-item-9 {
+  background-color: rgb(13, 157, 152);
+  height: 200px;
+  width: 50%;
+}
+
+.flexbox-small-item-10 {
+  background-color: rgba(89, 112, 98, 0.662);
+  height: 200px;
+  width: 50%;
+}
+
+.flexbox-item-3 {
+  background-color: rgba(87, 216, 61, 0.59);
+  height: 200px;
+}
